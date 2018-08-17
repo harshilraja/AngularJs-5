@@ -25,3 +25,50 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+nodejs
+
+Download nodejs exe file
+
+And install Node Js
+
+cmd
+
+node -v
+
+npm -v
+
+Install Angular Cli:
+npm install -g @angular/cli
+ng -v (Version check)
+
+Cd Angular5
+Angular5> ng new mynewApp
+Cd mynewApp
+Angular5>mynewApp>ng serve
+
+Open website : localhost:4200
+
+Install typescripting:
+npm install -g typescript
+tsc -v (Version check)
+
+npm install -g typescript@next
+
+Install BootStrap:
+npm install -g bootstrap
+
+
+Install Yarn:
+npm install -g yarn
+
+
+Vistual Studio
+
+Create a New Component:
+ng generate component myComponent
+ng g c components/mainpage
+
+Animation install:
+
+npm install @angular/animations@latest --save
